@@ -67,10 +67,12 @@ The dashboard is fully interactive and includes:
 
 ---
 
-## 👨‍💻 About Me
+## 👤 About Me
 
-**Joaquín Ferrer**  
-Industrial Engineering | Data Analytics | Power BI | SQL  
+**Joaquín Ferrer**
+
+Industrial Engineer · Data Analyst · Power BI · SQL
+
 
 🔗 [LinkedIn](https://www.linkedin.com/in/joaqu%C3%ADnferrer/) 
 📘 [Notion Portfolio](https://sun-sofa-ba8.notion.site/Joaqu-n-Ferrer-Portafolio-Profesional-2163e852260a808f9377e971506e0f1f?source=copy_link) 
